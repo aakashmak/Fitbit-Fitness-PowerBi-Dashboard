@@ -20,6 +20,10 @@ Created in Tableau to present key KPIs, trends, and user segment filters
 📎 Live Dashboard
 The Power BI version highlights the same dataset with additional visual refinements, including:
 
+<img width="906" height="500" alt="Fitbit fitness dashboard" src="https://github.com/user-attachments/assets/e19ab223-8ca3-4876-8494-745b20c65d69" />
+
+
+
 KPI cards for quick metrics
 
 Donut and bar charts comparing user performance
